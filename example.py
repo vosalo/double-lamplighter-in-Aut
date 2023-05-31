@@ -345,12 +345,7 @@ for (h, op_sym) in enumerate("RFLDDDDRFULULFLFLF"):
 
 with open("spacetime.tex", "w") as f:
     f.write(tikz)
-#print(tikz)
-    
-print()
-print()
-print()
-print()
+
 
 
 
